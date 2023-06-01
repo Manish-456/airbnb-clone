@@ -18,6 +18,7 @@ const nunito = Nunito({
 export const metadata: Metadata = {
   title: "Airbnb Clone",
   description: "Book your favorite destination now!",
+  keywords : ["airbnb-clone", "booking-destination", "booking-destination-app", "website created by Manish"]
 };
 
 export default async function RootLayout({
