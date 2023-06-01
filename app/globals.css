@@ -21,8 +21,4 @@ html, body, :root{
   width: 100% !important;
   font-size: 16px !important;
 }
-::-webkit-scrollbar{
-  width : 5px;
-  background-color: rgb(207, 203, 203);
-} 
 
