@@ -16,8 +16,7 @@ export default function HeartButton({ listingId, currentUser }: Props) {
     listingId,
     currentUser
   })
-  // const toggleFavorite = () => {};
-
+  
   return <div
   onClick={toggleFavorite}
   className="
@@ -32,8 +31,8 @@ export default function HeartButton({ listingId, currentUser }: Props) {
     className="
     fill-white
     absolute
-    -top-[2px]
-    -right-[2px]
+    -top-[1px]
+    -right-[0px]
     "
     />
     <AiFillHeart
